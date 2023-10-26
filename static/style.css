@@ -1,0 +1,24 @@
+/* Estilos personalizados */
+body {
+    background-color: #f9f9f9;
+}
+
+h2 {
+    color: #007BFF;
+}
+
+.list-group-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-top: 5px;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
